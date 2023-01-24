@@ -32,11 +32,12 @@
 
 ## Screenshots
 
+![Screenshot 2023-01-24 at 20-51-56 Foods](https://user-images.githubusercontent.com/117161570/214445563-5837d4d0-be8c-4219-b1db-149484b97ffb.png)
 
 
 
 ## 🚀 About Me
-I'm recently IT graduated and passionate about graphic and web designing, experienced in Adobe Creative Suite, with some basic knowlegde in HTML, CSS, JS, Python, Java and MySQL.
+I'm recently IT graduated and passionate about graphic and web designing, experienced in Adobe Creative Suite, with some basic knowlegde in HTML, CSS, JS, Python, Java and MySQL.
 
 
 ## 🛠 Skills

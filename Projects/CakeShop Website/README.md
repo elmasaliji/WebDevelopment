@@ -29,7 +29,8 @@ The website was created to make it easier for customers to find out about the pr
 
 
 ## Screenshots
-![Screenshot](https://imgur.com/a/bQKSY66)
+![Screenshot 2023-01-24 at 19-09-48 Cake Shop](https://user-images.githubusercontent.com/117161570/214439634-6792bbaf-cdbe-4929-943b-d25882f2e667.png)
+
 
 
 ## Color Reference

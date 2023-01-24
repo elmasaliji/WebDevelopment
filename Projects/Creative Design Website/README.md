@@ -2,7 +2,7 @@
 # Creative Design Website
 
 - This project was inspired by great desire of owning a digital agency business one day.
-- The idea was taken from this course -> https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/
+- The idea was taken from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
 
 

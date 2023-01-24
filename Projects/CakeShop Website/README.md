@@ -29,7 +29,7 @@ The website was created to make it easier for customers to find out about the pr
 
 
 ## Screenshots
-
+![Screenshot](https://imgur.com/a/bQKSY66)
 
 
 ## Color Reference

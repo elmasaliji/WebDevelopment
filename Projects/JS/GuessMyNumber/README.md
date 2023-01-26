@@ -1,8 +1,8 @@
 
-# Creative Design Website
+# Guess My Number JS
 
-- This project was inspired by great desire of owning a digital agency business one day.
-- The idea was taken from this course -> https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/
+- Guess The Number is popular programming game used in many languages.
+- In the number guessing game, the application selects a random quantity between two numbers, and the person guesses the right number. 
 
 
 
@@ -11,7 +11,6 @@
 ## Table of Content
 - General Information
 - Technologies used
-- Features
 - Screenshots
 - Color Reference
 - About me
@@ -19,23 +18,17 @@
 - Authors
 
 ## General Information
-Many people find it challenging to start a physical business since it requires lots of resources. It might take a large investment and a long time to scale.
-To avoid this, almost everyone can start an online business.
+To create a guessing game, we want to write a application to pick a random variety between 1 and 10. To supply pointers to the user, we can use conditional statements to inform the consumer if the guessed range is smaller, increased than or equal to the randomly chosen number. 
+If the guessed number is lower than the randomly chosen number, the user will see “It is smaller than ..”. If the guessed number is greater than the randomly chosen number, the person will see “It is larger than..”. When the person guesses the right number,“that's the number!!” and after how many tries the person guessed the number will be displayed in the output. 
 ## Technologies used
 - HTML
 - CSS
 - JavaScript
-## Features
-- Navigation items aligned vertically and once we hover over them, then they will start to place horizontally.
-- Floating background, which looks like the waves.
-- Cards of the customers with hover effect.
-- Team members cards include some stories about the members, which we can display by clicking at the buttom on the right corner.
-- Contact section includes the image and a couple of input fields and placed in a 3D environment and also have a nice hover effect down below.
-- A fixed button at the bottom right corner of the page, if clicked then it will crawl up the page to the first section.
 
 
 ## Screenshots
 
+![js](https://user-images.githubusercontent.com/117161570/214941098-76ce0942-82bc-4039-b7f8-192d685e1dc6.png)
 
 
 
